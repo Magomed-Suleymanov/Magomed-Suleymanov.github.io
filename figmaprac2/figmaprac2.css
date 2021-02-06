@@ -1,0 +1,460 @@
+
+body {
+	margin: 0;
+	font-family: 'Libre Franklin';
+}
+header {
+
+	background-image: url(Background.png);
+	background-size: cover;
+	color: #ffffff;
+}
+.wrap {
+	width: 1110px;
+	max-width: 100%;
+	margin: auto;
+	padding-top: 92px;
+	padding-bottom: 241px
+
+}
+.nav {
+	width: 1110px;
+	max-width: 100%;
+	display: flex;
+	margin: auto;
+	align-items: center;
+
+}
+.nav p {
+	width: 600px;
+	max-width: 100%;
+	font-size: 24px;
+}
+.menu {
+	width: 529px;
+	max-width: 100%;
+}
+.menu ul {
+	list-style: none;
+	display: flex;
+	justify-content: space-between;
+	font-size: 18px;
+}
+ul a {
+		text-decoration:none;
+		color: inherit;
+}
+.text {
+	padding-top: 145px;
+	width: 694px;
+	max-width: 100%;
+}
+.text h1 {
+	font-size: 64px;
+	font-weight: 400
+}
+.text .design {
+	font-size: 24px;
+	margin-top: 26px;
+	margin-bottom: 106px;
+}
+.text .latest {
+	font-size: 18px;
+}
+.deactivator {
+	background: rgba(198, 108, 73, 0.3);
+}
+.about {
+	display: flex;
+	align-items: center;
+	background-color: #ffffff;
+}
+.about .wrap {
+	width: 1110px;
+	max-width: 100%;
+	padding-top: 93px;
+	padding-bottom: 115px;
+}
+.about h1 {
+	font-size: 24px;
+	font-weight: 700;
+	padding-bottom: 76px;
+}
+.about p {
+	font-size: 18px;
+	padding-bottom: 25px;
+}
+.skills {
+	background: #FFFAF2;
+	box-sizing: border-box;
+}
+.skills .wrap {
+	width: 1110px;
+	max-width: 100%;
+	flex-wrap: wrap; 
+	margin: auto;
+	padding-top: 93px;
+	padding-bottom: 145px;
+}
+.tskill {
+	font-size: 24px;
+	padding-bottom: 86px;
+	font-weight: 700
+}
+.info {
+	display: flex;
+	justify-content: space-between;
+}
+.info .img1 {
+	width: 350px;
+	max-width: 100%;
+}
+.profile {
+	width: 635px;
+	max-width: 100%;
+	font-size: 18px;
+}
+.prof {
+	display: flex;
+	justify-content: space-between;
+	width: 505px;
+	max-width: 100%;
+	padding-bottom: 65px;
+}
+.subprofile {
+	font-weight: 600;
+	width: 58px
+}
+.naviki {
+	width: 320px;
+	max-width: 100%;
+}
+.UXResearch {
+	width: 635px;
+	max-width: 100%;
+}
+.block {
+	display: flex;
+	justify-content: space-between;
+	padding-bottom: 20px;
+}
+.uxtext {
+	width: 111px;
+	font-size: 18px;
+	font-weight: 600
+}
+.uxblock {
+	width: 450px;
+	max-width: 100%;
+	height: 25px;
+	background-color: #F5D6AB;
+}
+.axblock {
+	width: 381px;
+	max-width: 100%;
+	height: 25px;
+	background-color: #C66C49;
+}
+.uxblock1 {
+	width: 450px;
+	max-width: 100%;
+	font-size: 18px
+}
+.uxblock2 {
+	width: 450px;
+	max-width: 100%;
+	height: 25px;
+	background-color: #F5D6AB;
+}
+.axblock2 {
+	width: 351px;
+	max-width: 100%;
+	height: 25px;
+	background-color: #C66C49;
+}
+.block3 {
+	display: flex;
+	justify-content: space-between;
+}
+.uxtext3 {
+	width: 130px;
+	font-weight: 600
+}
+.axblock3{
+	width: 286px;
+	max-width: 100%;
+	height: 25px;
+	background-color: #C66C49;
+}
+.portfolio .wrap {
+	width: 1110px;
+	max-width: 100%;
+	margin: auto;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+.port {
+	width: 350px;
+	max-width: 100%;
+}
+.tportfolio {
+	font-size: 24px;
+	font-weight: 700;
+	padding-bottom: 86px;
+}
+.UXresearch2 p { 
+	font-size: 18px;
+	font-weight: 600;
+	padding-bottom: 48px;
+}
+.UXresearch2 .p2 {
+	font-size: 18px;
+	font-weight: 400;
+}
+.image {
+	display: flex;
+	width: 635px;
+	max-width: 100%;
+	padding-top: 217px
+}
+.blkimg {
+	width: 350px;
+	max-width: 100%;
+	padding-bottom: 26px;
+	padding-right: 30px;
+}
+.blkimg2{
+	width: 350px;
+	max-width: 100%;
+}
+.blkimg3 {
+	width: 255px;
+	max-width: 100%;
+	padding-bottom: 26px;
+}
+.blkimg4 {
+	width: 255px;
+	max-width: 100%;
+}
+.contact {
+	background: #FFFAF2;
+}
+.contact .wrap {
+	width: 1110px;
+	max-width: 100%;
+	margin: auto;
+	padding-bottom: 186px;
+}
+.Touch {
+	font-size: 24px;
+	font-weight: 700;
+}
+.wrap2 {
+	display: flex;
+	padding-top: 51px;
+	flex-wrap: wrap;
+}
+.contblk {
+	width: 370px;
+	max-width: 100%;
+}
+
+.contblk ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0
+}
+.contblk li {
+	padding-bottom: 14px;
+}
+
+
+@media only screen and (max-width: 500px) {
+	.deactivator {
+	
+		text-align: center;
+
+
+	}.deactivator .wrap {
+		padding-bottom: 56px;
+	}
+	.deactivator .nav {
+		flex-wrap: wrap;
+	} 
+	.menu {
+		padding: 0px 15px;
+	}
+	.nav p {
+		font-size: 50px;
+	}
+	.deactivator .text {
+		padding-top: 46px;
+	}
+	.deactivator ul {
+		padding-left: 0
+	}
+	.deactivator h1 {
+		font-size: 35px;
+	}
+	.deactivator .latest {
+		font-size: 30px;
+		text-decoration-line: underline;
+	}
+	.about  h1 {
+		text-align: center;
+		font-size: 
+	}
+	.about  p {
+		font-size: 24px;
+		text-align: justify;
+		padding: 34px;
+		padding-top: 0;
+		color: #333333;
+	}
+
+	.info {
+		flex-wrap: wrap;
+	}
+	
+	.about .wrap {
+		padding: 10px 0 0 0px;
+
+	}
+	.about h1 {
+		padding-bottom: 10px;
+	}
+	.skills .wrap {
+		padding-top: 0;
+		padding-bottom: 10px;
+	}
+	.tskill {
+		text-align: center;
+		padding: 30px 0;
+	}
+	.info .img1 {
+		width: 224px;
+		margin: auto;
+	}
+	.img1 img {
+		width: 100%;
+	}
+	.profile {
+		font-size: 12px;
+		box-sizing: border-box;
+		padding: 30px;
+	}
+	.uxtext {
+		font-size: 12px;
+	}
+	.uxblock1, .uxblock3 {
+		font-size: 12px;
+	}
+	.uxblock {
+	width: 300px;
+	max-width: 100%;
+	height: 25px;
+	background-color: #F5D6AB;
+	}
+	.axblock {
+	width: 190px;
+	max-width: 100%;
+	height: 25px;
+	background-color: #C66C49;
+}
+.uxblock1 {
+	width: 300px;
+}
+.uxblock2 {
+	width: 300px;
+}
+.axblock2 {
+	width: 240px;
+}
+.axblock3 {
+	width: 270px;
+}
+.uxtext3 {
+	width: 90px;
+}
+.uxblock {
+	width: 300px;
+}
+.prof .naviki {
+	text-align: right;
+}
+.portfolio .wrap {
+	padding: 25px 0;
+}
+.portfolio .port {
+	text-align: center;
+	margin: auto;
+}
+.tportfolio {
+	font-weight: 600;
+	padding-bottom: 19px;
+}
+.UXresearch2 p{
+	font-weight: 500;
+	font-size: 14px;
+	padding-bottom: 15px;
+}
+.UXresearch2 .p2{
+	font-weight: 400;
+	font-size: 12px;
+}
+	.image {
+		margin: auto;
+		box-sizing: border-box;
+		width: 400px;
+		padding: 10px;
+	}
+	.imgblock1 {
+		width: 200px;
+		padding-left: 15px;
+	}
+	.blkimg {
+		padding-bottom: 10px;
+	}
+	.imgblock1 img {
+		width: 100%
+	}
+	.imgblock2 {
+		width: 200px;
+		padding-left: 15px;
+	}
+	.imgblock2 img {
+		width: 100%;
+	}
+	.blkimg3 {
+		padding-bottom: 10px;
+	}
+	.blkimg3 img{
+		width: 145px;
+	}
+	.blkimg4 img{
+		width: 148px;
+	}
+	.contact .wrap {
+		width: 400px;
+		margin: auto;
+		padding: 0;
+		padding-bottom: 50px;
+	}
+	.contact .Touch {
+		text-align: center;
+		font-weight: 600;
+		font-size: 24px;
+		padding-top: 26px;
+	}
+	 .contact .wrap2 {
+	 	font-size: 14px;
+	 	justify-content: space-between;
+
+	 }
+	.contact .contblk {
+		width: 190px;
+	}
+	.contblk ul {
+		padding-top: 30px;
+	}
